@@ -1,4 +1,4 @@
-Вставндення
+Вставлення
 ```
 winget install --id OpenAI.Codex
 ```
@@ -9,4 +9,9 @@ winget install --id OpenAI.Codex
 Запусти Procmon64 на 30 секунд, у цей час я буду відтворювати дію, яка лагає. 
 Ціль: знайти не загальні припущення, а конкретний процес/файл/реєстр/мережевий шлях, на якому виникає затримка.
 Симтоми: _
+```
+
+Автозапуск
+```
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\Disabled
 ```
